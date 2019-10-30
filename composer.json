@@ -1,0 +1,17 @@
+{
+    "name": "marcelo-correa/package-api-controller-trait",
+    "type": "package",
+    "description": "Package Api Controller trait for Laravel",
+    "authors": [
+        {
+            "name": "Marcelo Corrêa",
+            "email": "marcelocorrea229@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ApiControllerTrait\\": "src/"
+        }
+    }
+}
